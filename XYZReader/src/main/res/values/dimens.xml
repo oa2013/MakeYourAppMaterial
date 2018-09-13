@@ -1,5 +1,5 @@
 <resources>
-    <!-- detail -->
+
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
@@ -7,5 +7,11 @@
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="recylerview_padding">8dp</dimen>
+    <dimen name="logo_padding">16dp</dimen>
+    <dimen name="cardview_margin">4dp</dimen>
+    <dimen name="collapsingToolbarMarginStart">48dp</dimen>
+    <dimen name="collapsingToolbarMarginEnd">64dp</dimen>
 
 </resources>
