@@ -15,7 +15,6 @@ repositories {
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.2"
 
     defaultConfig {
         minSdkVersion 19
@@ -24,6 +23,7 @@ android {
 }
 
 dependencies {
+    compile 'com.android.support.constraint:constraint-layout:1.1.0'
     compile 'com.android.support:design:25.3.0'
     compile "com.android.support:support-v4:$androidSupportVersion"
     compile "com.android.support:support-v13:$androidSupportVersion"

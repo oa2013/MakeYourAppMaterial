@@ -18,8 +18,7 @@
             android:layout_height="match_parent"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
             app:contentScrim="@color/theme_primary_dark"
-            app:expandedTitleMarginStart="@dimen/collapsingToolbarMarginStart"
-            app:expandedTitleMarginEnd="@dimen/collapsingToolbarMarginEnd"
+            android:layout_margin="@dimen/logo_padding"
             android:fitsSystemWindows="true">
 
             <ImageView
