@@ -1,16 +1,12 @@
 <!--
 Updated by Olga Agafonova on September 13, 2018
 -->
-
 <resources>
-
-    <style name="AppTheme.Base" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="photoPlaceholder">?attr/photoPlaceholder</item>
+        <item name="themePrimary">?attr/themePrimary</item>
+        <item name="themePrimaryDark">?attr/themePrimaryDark</item>
+        <item name="themeAccent">?attr/themeAccent</item>
+        <item name="themeAccentSecondary">?attr/themeAccentSecondary</item>
     </style>
-
-    <style name="AppTheme" parent="AppTheme.Base"></style>
-
-    <style name="AppTheme.Base.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
-
 </resources>
