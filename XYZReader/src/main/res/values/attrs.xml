@@ -1,7 +1,0 @@
-<resources>
-    <attr name="photoPlaceholder" format="color"/>
-    <attr name="themePrimary" format="color" />
-    <attr name="themePrimaryDark" format="color" />
-    <attr name="themeAccent" format="color" />
-    <attr name="themeAccentSecondary" format="color" />
-</resources>

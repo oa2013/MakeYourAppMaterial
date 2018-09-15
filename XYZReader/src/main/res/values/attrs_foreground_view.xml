@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Source:  https://github.com/udacity/ud862-samples/blob/master/Unsplash/app/src/main/res/values/attrs_foreground_view.xml -->
+<resources>
+    <declare-styleable name="ForegroundView">
+        <attr name="foreground" />
+        <attr name="foregroundInsidePadding" />
+        <attr name="foregroundGravity" />
+    </declare-styleable>
+</resources>
